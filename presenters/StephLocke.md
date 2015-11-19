@@ -1,11 +1,11 @@
 Contact Details
 ------
-Name: Stephanie Locke
-Email: slocke@mango-solutions.com
-Twitter: @SteffLocke
-LinkedIn: uk.linkedin.com/in/stephanielocke
-Github: github.com/StephLocke
-Blog: steph.itsalocke.com
+- Name: Stephanie Locke
+- Email: slocke@mango-solutions.com
+- Twitter: @SteffLocke
+- LinkedIn: uk.linkedin.com/in/stephanielocke
+- Github: github.com/StephLocke
+- Blog: steph.itsalocke.com
 
 Short Bio
 ------
