@@ -23,7 +23,7 @@ If it's not an event she's organised, then she's at someone else's event where t
 
 She runs three user groups in Cardiff and supports a number of others. As well as enjoying helping increase awesomeness locally, she's also tackling the task nationally! A veteran organiser of SQL Relay, Steph runs the Cardiff event growing it year on year, and has taken stints running the marketing, sponsorship and the whole conference to help bring more knowledge to the masses.
 
-Her latest project ? run 1, speak 1 ? has her running an event and speaking at a different one each month for the whole year. If you want to attend one of her user groups in Cardiff, or get her to a user group or conference near you this year, contact her (@SteffLocke) on twitter to find out more.
+Her latest project "run 1, speak 1" has her running an event and speaking at a different one each month for the whole year. If you want to attend one of her user groups in Cardiff, or get her to a user group or conference near you this year, contact her (@SteffLocke) on twitter to find out more.
 
 Long professional bio
 ------
