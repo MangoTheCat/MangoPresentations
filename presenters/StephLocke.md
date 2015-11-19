@@ -25,7 +25,7 @@ She runs three user groups in Cardiff and supports a number of others. As well a
 
 Her latest project ? run 1, speak 1 ? has her running an event and speaking at a different one each month for the whole year. If you want to attend one of her user groups in Cardiff, or get her to a user group or conference near you this year, contact her (@SteffLocke) on twitter to find out more.
 
-Long professional bio (WIP)
+Long professional bio
 ------
 Starting off in "the business" and falling sideways into "IT", Steph has worked in insurance and finance for most of her professional career delivering new and valuable insight to companies. She's now working a Principal Consultant at Mango Solutions to help bring value to more companies around the UK, and internationally.
 
