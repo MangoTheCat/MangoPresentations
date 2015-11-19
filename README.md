@@ -1,5 +1,5 @@
 # Mango Presentations
-Here you'll find the presentations Mango Consultants are currently offering. If you're an user group or conference organiser and would like us to come present at your event, please [get in touch](training@mango-solutions.com).
+Here you'll find the presentations Mango Consultants are currently offering. If you're an user group or conference organiser and would like us to come present at your event, please get in touch at training@mango-solutions.com .
 
 
 |Session                                                           |Focus                 |Level        |
