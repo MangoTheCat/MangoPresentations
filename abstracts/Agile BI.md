@@ -28,7 +28,7 @@ Level
 
 Focus
 ------
-Practices
+DataOps
 
 Slide URLs
 ------

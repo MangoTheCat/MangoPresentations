@@ -21,22 +21,10 @@ Level
 ------
 300 - intermediate
 
-Track
+Focus
 ------
-BI
+Data Visualization
 
-Time
+Presenters
 ------
-75 minutes
-
-Slide URLs
-------
-http://stephlocke.github.io/Rtraining/DashboardsHandout.html
-http://stephlocke.github.io/Rtraining/repoRting.html
-
-Previous session deliveries
-------
-| Date | Event | Location | Attendance | Feedback | Notes
-|------|-------|----------|------------|----------|-------|
-| 07/03/2015 | SQLBits | London, UK | 60 | | Very squeezed for time, also thought I didn't convey enough of the why |
-| 25/04/2015 | SQLSaturday Exeter | Exeter, UK | 10 | | Rebuilt deck for 50 mins, better Show & Tell, need to practice demos more |
+[Steph Locke](../presenters/StephLocke.md)

@@ -22,12 +22,10 @@ Level
 ------
 300 - Intermediate
 
-Track
+Focus
 ------
-BI
+DataOps
 
-Time
+Presenters
 ------
-30 mins
-60 mins
-
+[Steph Locke](../presenters/StephLocke.md)
