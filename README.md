@@ -2,14 +2,12 @@
 Here you'll find the presentations Mango Consultants are currently offering. If you're an user group or conference organiser and would like us to come present at your event, please [get in touch](training@mango-solutions.com).
 
 
-Session                                                             Focus                   Level        
-------------------------------------------------------------------  ----------------------  -------------
-The LaTeX show                                                      Reproducible analysis   Beginner     
-Agile BI                                                            Practices               Beginner     
-Introduction to R                                                   R                       Beginner     
-Analytical web services                                             R                       Intermediate 
-Board packs: Combining shiny, LaTeX and databases for full effect   Reproducible analysis   Intermediate 
-Shiny: dashboards in R                                              R                       Beginner     
+|Session                                                           |Focus                 |Level        |
+|:-----------------------------------------------------------------|:---------------------|:------------|
+|Agile BI                                                          |Practices             |Beginner     |
+|Analytical web services                                           |R                     |Intermediate |
+|Board packs: Combining shiny, LaTeX and databases for full effect |Reproducible analysis |Intermediate |
+|Shiny: dashboards in R                                            |R                     |Beginner     |
 
 ## FAQs
 
@@ -24,3 +22,6 @@ Each of the sessions has one or more experts on the topic - you can check out th
 
 ### What if I want something not on the list?
 If you'd like us to come present something specific, still get in touch but please give us plenty of notice to ensure we have time to put something together for you.
+
+### I see an abstract but it isn't on the list above?
+This means we're currently working on the presentation, check back later or let us know that you're interested in it anyway.
