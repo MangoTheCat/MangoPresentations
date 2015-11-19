@@ -17,7 +17,7 @@ Steph Locke wants to live in a world where everyone she encounters enjoys their 
 
 In the day job of Principal Consultant at Mango Solutions, she roves the countryside helping people use a blend of open source and proprietary technologies to make better decisions, which hopefully means more money!
 
-When she?s not making numbers look pretty, you can probably find her at a community event. 
+When she's not making numbers look pretty, you can probably find her at a community event. 
 
 If it's not an event she's organised, then she's at someone else's event where they've been crazy enough to let her talk or help out at. EARL, SQLBits, SQL Relay and SQL Saturday organisers have all let Steph speak and help out, and most recently she was nominated for the Tribal Award recognising her gift of the gab and willingness to help out. 
 
@@ -27,10 +27,10 @@ Her latest project "run 1, speak 1" has her running an event and speaking at a d
 
 Long professional bio
 ------
-Starting off in "the business" and falling sideways into "IT", Steph has worked in insurance and finance for most of her professional career delivering new and valuable insight to companies. She's now working a Principal Consultant at Mango Solutions to help bring value to more companies around the UK, and internationally.
+Starting off in "the business" and falling sideways into IT, Steph has worked in insurance and finance for most of her professional career delivering new and valuable insight to companies. She's now working a Principal Consultant at Mango Solutions to help bring value to more companies around the UK, and internationally.
 
 With a number of analytics, reporting, and data warehouse solutions under her belt she knows her Microsoft and open source technology stacks. 
 
-Technical skill, and a business focus, are complemented by strong mentoring and management skills. Having mentored staff over the past three years and having lead a growing team, Steph can help deliver not only a better "technical solution" but a better "people solution".
+Technical skill, and a business focus, are complemented by strong mentoring and management skills. Having mentored staff over the past three years and having lead a growing team, Steph can help deliver not only a better technical solution but a better people solution.
 
 Having worked in primarily smaller organisations, Steph has learnt to interact with everyone from front-line staff to CxOs and has sat on various steering groups that help blend turn strategy into tactics.
