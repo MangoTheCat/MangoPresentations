@@ -1,8 +1,8 @@
 # ---
-# title: Working with databases
-# author: Steph Locke
-# date: 30/11/2015
-# type: Exercise answers
+# title: "Working with databases"
+# author: "Steph Locke"
+# date: "30/11/2015"
+# type: "Exercise answers"
 # ---
 
 # Exercise 1 ----
