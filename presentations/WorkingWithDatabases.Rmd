@@ -126,7 +126,7 @@ qResult<-dbWriteTable(
           myDB,"airquality",airquality)
 aq     <-dbGetQuery(
           myDB,"SELECT * FROM airquality
-                      WHERE ozone is null")
+                      WHERE ozone IS NULL")
 head(aq)
 ```
 
@@ -168,7 +168,7 @@ DML describes SQL keywords that allow you to manage the data itself. CRUD covers
 ```sql
 INSERT INTO airquality 
 SELECT * FROM airquality
-WHERE ozone is null
+WHERE ozone IS NULL
 ```
 
 ```sql
@@ -233,7 +233,7 @@ rowcheck()
 ## SELECT | Example
 ```sql
 SELECT * FROM airqualilty;
-SELECT ozone, wind, month from airquality;
+SELECT ozone, wind, month FROM airquality;
 ```
 ## SELECT | In R
 Option 1: `SELECT` data using `dbReadTable`
@@ -438,7 +438,7 @@ head(aqGROUP)
 ```
 
 ## Exercise 10
-Calculate the standard deviation (STDDEV) of petal lengths and widths by species
+Calculate the average petal lengths and widths by species
 
 ## ORDER BY | About
 ORDER BY allows you to sort by columns
@@ -452,7 +452,7 @@ ORDER BY allows you to sort by columns
 ```sql
 SELECT * 
 FROM airquality
-ORDER BY month DESC, day DESc
+ORDER BY month DESC, day DESC
 ```
 
 
@@ -486,10 +486,11 @@ NBs:
 
 ## CREATE tables from R | Example
 ```sql
-SELECT * 
-FROM (SELECT DISTINCT month 
-      FROM airquality) a
-CROSS JOIN months m
+CREATE TABLE airquality(
+id int AUTO_INCREMENT,
+ozone decimal(10,2),
+PRIMARY KEY(id)
+)
 ```
 
 
