@@ -558,7 +558,7 @@ Covered a lot of syntax, but not covered everything:
 3. DDL
 4. Best practices
 
-Get this slidedeck: [github.com/mangothecat/mangopresentations](github.com/mangothecat/mangopresentations/workingwithdatabases.rmd)
+Get this slidedeck: [github.com/mangothecat/mangopresentations](https://github.com/MangoTheCat/MangoPresentations/blob/master/presentations/WorkingWithDatabases.Rmd)
 
 ## Q&A
 
