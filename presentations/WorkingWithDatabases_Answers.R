@@ -4,7 +4,7 @@
 # date: "30/11/2015"
 # type: "Exercise answers"
 # ---
-
+if(file.exists("local.db")) file.remove("local.db")
 # Exercise 1 ----
 library(RSQLite)
 myDB <- dbConnect(SQLite(),"local.db")
@@ -82,10 +82,15 @@ dbGetQuery(myDB,"select *
 # Exercise 12 ----
 dbWriteTable(myDB,"iris",iris,overwrite = TRUE)
 
-# Exercise 13 ----
-dbRemoveTable(myDB,"iris")
-
 # Tangents ----
 test <- dbSendQuery(myDB
                     ,"delete from iris where `Sepal.Length`<=4.5")
 dbGetRowsAffected(test)
+
+# Exercise 13 ----
+dbRemoveTable(myDB,"iris")
+
+
+
+# Politeness ----
+dbDisconnect(myDB)
