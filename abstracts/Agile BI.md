@@ -36,4 +36,4 @@ http://1drv.ms/1dVMJ76
 
 Presenters
 ------
-[Steph Locke](../presenters/StephLocke.md)
+[Steph Locke](../biographies/StephLocke.md)

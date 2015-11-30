@@ -25,4 +25,4 @@ Reproducible analysis
 
 Presenters
 ------
-[Steph Locke](../presenters/StephLocke.md)
+[Steph Locke](../presenters/biographies.md)

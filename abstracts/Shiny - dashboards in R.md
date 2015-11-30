@@ -27,4 +27,4 @@ Data Visualization
 
 Presenters
 ------
-[Steph Locke](../presenters/StephLocke.md)
+[Steph Locke](../biographies/StephLocke.md)
